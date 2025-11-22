@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/OxidizedToast" target="blank"><img src="https://img.shields.io/twitter/follow/OxidizedToast?logo=twitter&style=for-the-badge" alt="OxidizedToast" /></a> </p>
 
-- 🔭 I'm currently working on **habit-tracker[https://github.com/OxidizedToast/habit-tracker]**
+- 🔭 I'm currently working on <a href="https://github.com/OxidizedToast/habit-tracker" target="_blank">habit-tracker</a>
 
 - 🌱 I'm currently learning **Python and C++**
 
